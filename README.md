@@ -1,8 +1,9 @@
-<h3 align="left">Hi 👋! I'm Duong Nguyen</h3>
+<h2 align="left">Hi 👋! I'm Duong Nguyen</h2>
 
 ###
 
-<p align="left">I'm an undergraduate student at FPT University. I'm currently learning Software Engineering!</p>
+<p align="left"> 🎓I'm an undergraduate student at FPT University. </p>
+<p align="left">👨‍💻 I'm currently learning Software Engineering. </p>
 
 ###
 
