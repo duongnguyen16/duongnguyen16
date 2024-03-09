@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left"> 🎓I'm an undergraduate student at FPT University. </p>
-<p align="left">👨‍💻 I'm currently learning Software Engineering. </p>
+<p align="left"> 🎓FPT University (Undergraduated) </p>
+<p align="left">📖 Software Engineering </p>
 
 ###
 
